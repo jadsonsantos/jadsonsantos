@@ -1,6 +1,15 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jadsonsantos&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=jadsonsantos&count_private=true&show_icons=true&theme=gotham&hide=issues,contribs">
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonsantos&show_icons=true&theme=gotham&layout=compact">
+        </td>
+    </tr>
+</table>
 
 <!--
 **jadsonsantos/jadsonsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
