@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning JavaScript ES6
+
+
 <table>
     <tr>
         <td>
