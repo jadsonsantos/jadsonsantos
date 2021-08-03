@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript ES6
+- 🌱 I’m currently learning JavaScript ES6 and Reactjs
 
 
 <table>
