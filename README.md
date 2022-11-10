@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working at Red Ventures BR
+- 🔭 I'm currently working at [Red Ventures BR](/RedVentures).
 - 🌱 I’m currently learning JavaScript ES6 and Reactjs
 
 
