@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, I'm Jadson! 👋
 
 <!--- 🔭 I'm currently working at [Red Ventures BR](https://redventures.com.br/).-->
 - 🌱 I’m currently learning JavaScript ES6 and Reactjs
@@ -15,7 +15,7 @@
     </tr>
 </table>
 
-### 💻 Tools and Skills
+## 💻 Tools and Skills
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
@@ -42,3 +42,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/jadsonsantos)
