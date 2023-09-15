@@ -3,7 +3,7 @@
 <!--- 🔭 I'm currently working at [Red Ventures BR](https://redventures.com.br/).-->
 - 🌱 I’m currently learning JavaScript ES6 and Reactjs
 
-
+## 💻 GitHub Stats
 <table>
     <tr>
         <td>
@@ -14,6 +14,9 @@
         </td>
     </tr>
 </table>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=jadsonsantos&theme=dark&hide_border=false)<br/>
+
 
 ## 💻 Tools and Skills
 <div>
@@ -46,3 +49,6 @@ Here are some ideas to get you started:
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadsonsantos)
+
+## Weekly Profile Views 
+[![](https://visitcount.itsvg.in/api?id=jadsonsantos&icon=1&color=2)](https://visitcount.itsvg.in)
