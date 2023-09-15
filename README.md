@@ -1,7 +1,9 @@
 ## Hi, I'm Jadson! 👋
 
 <!--- 🔭 I'm currently working at [Red Ventures BR](https://redventures.com.br/).-->
-- 🌱 I’m currently learning JavaScript ES6 and Reactjs
+
+📚 Languages: HTML, CSS, JavaScript  <br>
+🧊 Frameworks: ReactJs , NextJs , GatsbyJs
 
 ## 💻 GitHub Stats
 <table>
