@@ -2,6 +2,7 @@
 
 <!--- 🔭 I'm currently working at [Red Ventures BR](https://redventures.com.br/).-->
 
+👨‍🎓 Bachelor’s degree in Computer Science<br>
 📚 Languages: HTML, CSS, JavaScript  <br>
 🧊 Frameworks: ReactJs , NextJs , GatsbyJs
 
