@@ -55,3 +55,6 @@ Here are some ideas to get you started:
 
 ## Weekly Profile Views 
 [![](https://visitcount.itsvg.in/api?id=jadsonsantos&icon=1&color=2)](https://visitcount.itsvg.in)
+
+## Roadmap Tracking
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64833eae87dba40771245359?variant=light)](https://roadmap.sh)
