@@ -1,9 +1,8 @@
 ## Hi, I'm Jadson! 👋
 
-<!--- 🔭 I'm currently working at [Red Ventures BR](https://redventures.com.br/).-->
 
 👨‍🎓 Bachelor’s degree in Computer Science<br>
-📚 Languages: HTML5, CSS3, JavaScript, TypeScript  <br>
+📚 Languages: HTML5, CSS3, Styled Components, JavaScript, TypeScript  <br>
 🧊 Frameworks: ReactJs , NextJs , GatsbyJs
 
 ## 💻 GitHub Stats
