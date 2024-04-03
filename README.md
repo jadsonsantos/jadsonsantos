@@ -1,11 +1,11 @@
 ## Hi, I'm Jadson! 👋
 
-
 👨‍🎓 Bachelor’s degree in Computer Science<br>
-📚 Languages: HTML5, CSS3, Styled Components, JavaScript, TypeScript  <br>
+📚 Languages: HTML5, CSS3, Styled Components, JavaScript, TypeScript <br>
 🧊 Frameworks: ReactJs , NextJs , GatsbyJs
 
 ## 💻 GitHub Stats
+
 <table>
     <tr>
         <td>
@@ -17,22 +17,24 @@
     </tr>
 </table>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jadsonsantos&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=jadsonsantos&theme=dark&hide_border=false)<br/> -->
 
-## Roadmap Tracking
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64833eae87dba40771245359?variant=light&roadmaps=frontend)](https://roadmap.sh)
+<!-- ## Roadmap Tracking
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64833eae87dba40771245359?variant=light&roadmaps=frontend)](https://roadmap.sh) -->
 
 ## 💻 Tools and Skills
+
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>   -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />                             -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
 </div>
 
 <!--
@@ -50,11 +52,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔗 Links
+<!-- ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadsonsantos)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadsonsantos) -->
 
-## Weekly Profile Views 
-[![](https://visitcount.itsvg.in/api?id=jadsonsantos&icon=1&color=2)](https://visitcount.itsvg.in)
+<!-- ## Weekly Profile Views
 
-
+[![](https://visitcount.itsvg.in/api?id=jadsonsantos&icon=1&color=2)](https://visitcount.itsvg.in) -->
