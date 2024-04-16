@@ -1,16 +1,13 @@
 <h1>👋 Olá, eu sou o Jadson</h1>
 
-<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
-<p>
-- 👨🏻‍💻 &nbsp; Desenvolvedor Front-End apaixonado por criar experiências web rápidas e responsivas.
-</p>
-<br/>
-
 <p align="center">
     <a href="https://instagram.com/eujadsonsantos"><img src="https://img.shields.io/badge/-@eujadsonsantos_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/jadsonsantos"><img src="https://img.shields.io/badge/-Jadson%20Santos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:jadsondossantos5@gmail.com"><img src="https://img.shields.io/badge/-jadsondossantos5@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+
+<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
+- 👨🏻‍💻 &nbsp; Desenvolvedor Front-End apaixonado por criar experiências web rápidas e responsivas.
 
 <h2>💻 Ferramentas e Skills</h2>
 
