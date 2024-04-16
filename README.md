@@ -1,10 +1,28 @@
-## Hi, I'm Jadson! 👋
+<h1>👋 Olá, eu sou o Jadson</h1>
 
-👨‍🎓 Bachelor’s degree in Computer Science<br>
-📚 Languages: HTML5, CSS3, Styled Components, JavaScript, TypeScript <br>
-🧊 Frameworks: ReactJs , NextJs , GatsbyJs
+<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
+<p>
+- 👨🏻‍💻 &nbsp; Desenvolvedor Front-End apaixonado por criar experiências web rápidas e responsivas.
+</p>
+<br/>
 
-## 💻 GitHub Stats
+<p align="center">
+    <a href="https://instagram.com/eujadsonsantos"><img src="https://img.shields.io/badge/-@eujadsonsantos_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/jadsonsantos"><img src="https://img.shields.io/badge/-Jadson%20Santos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:jadsondossantos5@gmail.com"><img src="https://img.shields.io/badge/-jadsondossantos5@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+
+<h2>💻 Ferramentas e Skills</h2>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 <table>
     <tr>
@@ -16,46 +34,3 @@
         </td>
     </tr>
 </table>
-
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=jadsonsantos&theme=dark&hide_border=false)<br/> -->
-
-<!-- ## Roadmap Tracking
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64833eae87dba40771245359?variant=light&roadmaps=frontend)](https://roadmap.sh) -->
-
-## 💻 Tools and Skills
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>   -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />                             -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</div>
-
-<!--
-**jadsonsantos/jadsonsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadsonsantos) -->
-
-<!-- ## Weekly Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=jadsonsantos&icon=1&color=2)](https://visitcount.itsvg.in) -->
