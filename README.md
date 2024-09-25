@@ -6,7 +6,7 @@
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
-- 👨🏻‍💻 &nbsp; Desenvolvedor Front-End apaixonado por criar experiências web rápidas e responsivas.
+👨🏻‍💻 &nbsp; Desenvolvedor Front-End
 
 <h2>💻 Ferramentas e Skills</h2>
 
