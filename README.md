@@ -48,6 +48,9 @@ Desenvolvedor Front-End focado em criar interfaces modernas, acessíveis e perfo
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadsonsantos&show_icons=true&theme=gotham&layout=compact" />
     </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jadsonsantos&theme=radical&mode=weekly" />
+    </td>
   </tr>
 </table>
 
